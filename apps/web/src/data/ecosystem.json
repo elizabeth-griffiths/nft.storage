@@ -1,5 +1,13 @@
 [
   {
+    "name": "NFT.Storage",
+    "description": "If you're storing offchain NFT data on IPFS, back it up to NFT.Storage for long-term accessibility. Without maintained IPFS pins, data can go offline, turning NFTs into “dead” assets where ownership exists, but access is lost.",
+    "url": "https:/nft.storage",
+    "imageUrl": "/images/partners/nftstorage.png",
+    "category": "consumer",
+    "subcategory": "creator"
+  },[
+  {
     "name": "Arcadia Games",
     "description": "Arcadia Games provides PvP board games on the blockchain. Play Chess, Battleship and other classic games against other players for crypto.",
     "url": "https:/arcadiagames.io",
